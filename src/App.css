@@ -119,7 +119,7 @@ p {
     border-radius: 15px;
     padding: 30px;
     margin: 20px auto;
-    max-width: 500px;
+    width: 500px;
     min-height: 180px;
     transition: transform 0.4s, box-shadow 0.4s;
 }
